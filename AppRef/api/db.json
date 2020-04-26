@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My stream ",
+      "description": "The is archie",
+      "id": 1
+    },
+    {
+      "title": "My stream 2",
+      "description": "The is archie2",
+      "id": 2
+    },
+    {
+      "title": "Test the stuff yes",
+      "description": "Testy edited",
+      "id": 4
+    },
+    {
+      "title": "My Button",
+      "description": "ahsjahs",
+      "userId": "113118334241281398904",
+      "id": 5
+    }
+  ]
+}
